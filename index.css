@@ -1,0 +1,25 @@
+
+body{
+    background-color: #171717;
+}
+
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.image{
+    filter:brightness(0.8);
+
+    padding: 5px;
+    margin: 5px;
+    color-adjust: economy;
+}
+
+.image:hover{
+    filter:brightness(1);
+    animation-direction: reverse;
+}
+
