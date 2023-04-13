@@ -12,14 +12,16 @@ body{
 
 .image{
     filter:brightness(0.8);
+    /*border: 5px solid grey;*/
+    /*border-radius: 2%;*/
 
-    padding: 5px;
     margin: 5px;
     color-adjust: economy;
 }
 
 .image:hover{
     filter:brightness(1);
-    animation-direction: reverse;
+
+
 }
 

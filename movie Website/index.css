@@ -1,0 +1,45 @@
+body{
+    margin: 0 auto;
+    padding: 5% 10%;
+    background-color: #c7c3c3;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+
+
+    /*aside{*/
+    /*    width:30%;*/
+    /*    padding:15px;*/
+    /*    margin:15px;*/
+    /*    float:right;*/
+    /*    background-color: lightgray;*/
+    /*}*/
+
+
+}
+p, h2{
+    padding: 20px;
+}
+
+.footer-paragraph{
+    margin: 5px
+}
+
+span{
+    font-style: oblique;
+   font-weight: bold;
+}
+
+td,tr,th{
+    border: 2px solid black;
+    padding: 3px;
+
+}
+
+.image{
+    padding: 20px;
+    height: 45vh;
+    width: 20vw;
+}

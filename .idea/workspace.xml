@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404c9fc4-f2c0-47a4-a583-103c1525064e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login Page/layoutPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login Page/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login Page/loginPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login Page/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,6 +44,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/Hanok/programs/HERALD/Web Technologies/webTechnology",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,21 +55,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.home.html">
-    <configuration name="footer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webTechnology/footer.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.register.html">
+    <configuration name="forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/webTechnology/forms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webTechnology/home.html" useBuiltInWebServerPort="true">
+    <configuration name="home.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webTechnology/index.html" useBuiltInWebServerPort="true">
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/Login Page/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="task2_forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/task2_forms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="task3_google.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/task3_google.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.home.html" />
-        <item itemvalue="JavaScript Debug.footer.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.register.html" />
+        <item itemvalue="JavaScript Debug.home.html (1)" />
+        <item itemvalue="JavaScript Debug.task2_forms.html" />
+        <item itemvalue="JavaScript Debug.task3_google.html" />
+        <item itemvalue="JavaScript Debug.forms.html" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +93,21 @@
       <workItem from="1678796322806" duration="4000" />
       <workItem from="1678796338750" duration="451000" />
       <workItem from="1679210792597" duration="354000" />
-      <workItem from="1679378509697" duration="3394000" />
+      <workItem from="1679378509697" duration="6064000" />
+      <workItem from="1679390975198" duration="56000" />
+      <workItem from="1679458830533" duration="793000" />
+      <workItem from="1679478640127" duration="20000" />
+      <workItem from="1679478672495" duration="5000" />
+      <workItem from="1679478685520" duration="656000" />
+      <workItem from="1679977265874" duration="1820000" />
+      <workItem from="1679983036285" duration="1940000" />
+      <workItem from="1679990433629" duration="647000" />
+      <workItem from="1679997324276" duration="769000" />
+      <workItem from="1680083449302" duration="167000" />
+      <workItem from="1680541548020" duration="87000" />
+      <workItem from="1680593603870" duration="1378000" />
+      <workItem from="1680626279323" duration="82000" />
+      <workItem from="1681199998984" duration="1478000" />
     </task>
     <servers />
   </component>
