@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404c9fc4-f2c0-47a4-a583-103c1525064e" name="Changes" comment="" />
+    <list default="true" id="404c9fc4-f2c0-47a4-a583-103c1525064e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Canva Design Replica/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Canva Design Replica/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flex and Grid/gridLayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flex and Grid/gridLayout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single canva website replica/asset/img/graphic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single canva website replica/asset/img/graphic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single canva website replica/asset/img/graphic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single canva website replica/asset/img/graphic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/.idea/website Replica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/.idea/website Replica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/asset/img/graphic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Canva Design Replica/asset/img/graphic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/asset/img/graphic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Canva Design Replica/asset/img/graphic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/asset/img/graphic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Canva Design Replica/asset/img/graphic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/asset/img/graphic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Canva Design Replica/asset/img/graphic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canva website replica/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Single canva website replica/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +46,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N0KhATXeuURVuld3CMrB86fOpa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/Hanok/programs/HERALD/Web Technologies/webTechnology",
+    "last_opened_file_path": "/Users/Hanok/programs/HERALD/Web Technologies/webTechnology/Canva Design Replica",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,11 +71,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.register.html">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Canva Design Replica" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Login Page" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/webTechnology/forms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="home.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/home.html" useBuiltInWebServerPort="true">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/Login Page/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/google.html/Login Page/register.html" useBuiltInWebServerPort="true">
@@ -65,11 +97,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.forms.html" />
         <item itemvalue="JavaScript Debug.register.html" />
-        <item itemvalue="JavaScript Debug.home.html (1)" />
         <item itemvalue="JavaScript Debug.task2_forms.html" />
         <item itemvalue="JavaScript Debug.task3_google.html" />
-        <item itemvalue="JavaScript Debug.forms.html" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +131,11 @@
       <workItem from="1680593603870" duration="1378000" />
       <workItem from="1680626279323" duration="82000" />
       <workItem from="1681199998984" duration="1478000" />
-      <workItem from="1681378127070" duration="1188000" />
+      <workItem from="1681378127070" duration="1620000" />
+      <workItem from="1681483373405" duration="18000" />
+      <workItem from="1681880838989" duration="158000" />
+      <workItem from="1682402542805" duration="4648000" />
+      <workItem from="1682531925721" duration="6488000" />
     </task>
     <servers />
   </component>

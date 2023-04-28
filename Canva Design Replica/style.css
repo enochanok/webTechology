@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Adelle Sans Devanagari", serif;
+}
+    /* CSS for the first section*/
+.first__section{
+    display: flex;
+    background-color: #0d3b2e;
+    width: 100%;
+    height: 100vh;
+}
+
+.right, .left{
+    width: 50%;
+}
+
+.left img{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.right {
+    height: 100vh;
+    color: white;
+    padding-left: 4em;
+}
+
+.right h1 {
+    font-size: 4.2em;
+    padding: 2em 3em 0 0;
+}
+
+.right .text{
+    font-weight: 200;
+    font-size: 1.8em;
+    padding-bottom: 4em;
+}
+
+button{
+    border: none;
+    font-weight: 900;
+    padding: 1em 2.6em;
+    border-radius: 2.2em;
+    background-color: #ffba00;
+    text-transform: capitalize;
+}
+
+/* CSS for the second section*/
+
+.second__section {
+    display: flex;
+    flex-direction: column;
+
+    background-color: #6d9773;
+    width: 100%;
+    height: 100vh;
+}
+
+.top{
+
+}
+
+.bottom img{
+    height: 70vh;
+    width: 80%;
+    object-fit: cover;
+    justify-items: center;
+
+}
+
+/* CSS for the third section*/
+
+.third__section{
+    width: 100%;
+    height: 100vh;
+    background-color: #ffba00;
+}
+.heading{
+    font-size: 3.5em;
+    font-weight: 900;
+    text-align: center;
+    justify-content: center;
+    padding-top: 1em;
+}
+
+.keynote {
+    display: flex;
+    justify-content: space-between;
+   padding: 5em 0 0 0;
+}
+
+.card{
+
+
+}
+
+.card__image{
+    height: 40vh;
+    width: 23vw;
+
+}
+
+.card__description{
+    text-align: center;
+    justify-content: center;
+}
+
+.text{
+    padding-top: 0.5em;
+}
+
+.date{
+    font-size: larger;
+    padding: 2em;
+    font-weight: 600;
+}
