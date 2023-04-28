@@ -12,8 +12,11 @@
     height: 100vh;
 }
 
-.right, .left{
-    width: 50%;
+ .left{
+    width: 40%;
+}
+.right {
+    width: 60%;
 }
 
 .left img{
@@ -28,7 +31,7 @@
     padding-left: 4em;
 }
 
-.right h1 {
+ h1 {
     font-size: 4.2em;
     padding: 2em 3em 0 0;
 }
@@ -41,8 +44,9 @@
 
 button{
     border: none;
-    font-weight: 900;
+    font-weight: 700;
     padding: 1em 2.6em;
+    line-height: 1.5em;
     border-radius: 2.2em;
     background-color: #ffba00;
     text-transform: capitalize;
@@ -53,11 +57,24 @@ button{
 .second__section {
     display: flex;
     flex-direction: column;
-
     background-color: #6d9773;
     width: 100%;
     height: 100vh;
 }
+
+
+.second__top{
+
+}
+
+/*.second__top .second__text{*/
+/*    width: 50%;*/
+/*    color: white;*/
+/*}*/
+
+/*.second__top .text{*/
+/*    width: 50%;*/
+/*}*/
 
 .top{
 
@@ -76,7 +93,7 @@ button{
 .third__section{
     width: 100%;
     height: 100vh;
-    background-color: #ffba00;
+    background-color: #e3c572;
 }
 .heading{
     font-size: 3.5em;
@@ -99,7 +116,7 @@ button{
 
 .card__image{
     height: 40vh;
-    width: 23vw;
+    width: 25vw;
 
 }
 
@@ -112,8 +129,48 @@ button{
     padding-top: 0.5em;
 }
 
-.date{
+.data{
     font-size: larger;
-    padding: 2em;
-    font-weight: 600;
+    font-weight: 500;
+    padding: 0 0 3em 0;
 }
+
+/* fourth Section */
+
+.fourth__section {
+    display: flex;
+    background-color: #6d9773;
+    width: 100%;
+    height: 100vh;
+}
+
+.fourth_description {
+    padding-left: 15em;
+}
+
+.fourth__text{
+    padding-top: 8em;
+}
+
+/* fourth Section */
+
+.fifth__section {
+    display: flex;
+    background-color: #0d3b2e;
+    width: 100%;
+    height: 100vh;
+}
+
+.left{
+    width: 40%;
+}
+.right {
+    width: 60%;
+}
+
+.right .fifth_text{
+    font-weight: 200;
+    font-size: 1.8em;
+    padding-bottom: 3em;
+}
+
